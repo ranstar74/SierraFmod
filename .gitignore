@@ -1,0 +1,6 @@
+# FMOD
+*.svn-base
+*.cache
+*.unsaved
+*.user
+*.svn

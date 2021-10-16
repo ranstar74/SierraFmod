@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a554e44e-ab7d-4503-b5d8-7fd762bedff2}">
+		<property name="assetPath">
+			<value>Chug5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.80108843537414964</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c9374709-b76c-4a88-a8ce-18b3d8a6449b}</destination>
+		</relationship>
+	</object>
+</objects>
