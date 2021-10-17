@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{020ff8f2-af61-47c4-becd-d1fddeadc928}">
 		<property name="name">
-			<value>chug4fast</value>
+			<value>chug4mid</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -84,7 +84,7 @@
 	<object class="MixerBusPanner" id="{131a1e89-7b16-4975-834e-b3e892876ddd}" />
 	<object class="SingleSound" id="{09194c48-bd0f-4cc0-a44a-0ebc669816b7}">
 		<property name="length">
-			<value>0.55000000000000004</value>
+			<value>0.62</value>
 		</property>
 		<property name="timelockedOffset">
 			<value>0.019999999999999997</value>
@@ -167,7 +167,7 @@
 	</object>
 	<object class="AutomationPoint" id="{c8984589-6821-40cd-b5da-1043ddc2ea08}">
 		<property name="position">
-			<value>0.24999999999999994</value>
+			<value>0.3199999999999999</value>
 		</property>
 		<property name="value">
 			<value>1</value>
@@ -178,7 +178,7 @@
 	</object>
 	<object class="AutomationPoint" id="{442797e6-bf4a-479c-bdb8-7422e230be5b}">
 		<property name="position">
-			<value>0.55000000000000004</value>
+			<value>0.62</value>
 		</property>
 		<property name="value">
 			<value>0</value>

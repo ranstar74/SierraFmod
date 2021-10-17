@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d4a66c18-c3bb-4d21-946c-053ec56b9141}">
+		<property name="name">
+			<value>SafetyValve</value>
+		</property>
+		<relationship name="folder">
+			<destination>{54541cb7-34dd-46c9-b00c-598032fb9e27}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{527a6251-591b-4e83-9fba-c0f35b10eb2b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{527a6251-591b-4e83-9fba-c0f35b10eb2b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
