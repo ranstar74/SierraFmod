@@ -65,7 +65,17 @@
 			<destination>{534e187b-1058-498f-ab47-008db908c3db}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{bcffa645-3fe4-457f-b223-71089eb930bb}" />
+	<object class="EventAutomatableProperties" id="{bcffa645-3fe4-457f-b223-71089eb930bb}">
+		<property name="isPersistent">
+			<value>true</value>
+		</property>
+		<property name="dopplerEnabled">
+			<value>true</value>
+		</property>
+		<property name="maximumDistance">
+			<value>150</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{30d8525b-0d39-4439-97af-9d114694c5b9}" />
 	<object class="GroupTrack" id="{3ba935b6-60b5-4bd1-8738-e58e65d6312d}">
 		<relationship name="automationTracks">
@@ -388,6 +398,9 @@
 	</object>
 	<object class="MixerBusFader" id="{1f49fc4e-7cd3-4066-8326-8539f88d0500}" />
 	<object class="SpatialiserEffect" id="{a6fa498d-5f9a-4624-9e0b-f77ccbebb93b}">
+		<property name="maximumDistance">
+			<value>150</value>
+		</property>
 		<property name="extentMode">
 			<value>2</value>
 		</property>
