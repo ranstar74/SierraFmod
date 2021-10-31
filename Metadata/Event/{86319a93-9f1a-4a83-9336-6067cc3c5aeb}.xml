@@ -426,9 +426,6 @@
 		<property name="isAsync">
 			<value>true</value>
 		</property>
-		<relationship name="parameters">
-			<destination>{6d03d82c-2b98-4f89-a3e5-71be8ac4fe0b}</destination>
-		</relationship>
 		<relationship name="event">
 			<destination>{a1b8b822-35f2-485c-9d43-956bb31f3a5c}</destination>
 		</relationship>
@@ -531,11 +528,6 @@
 		<property name="value">
 			<value>0</value>
 		</property>
-	</object>
-	<object class="ParameterProperty" id="{6d03d82c-2b98-4f89-a3e5-71be8ac4fe0b}">
-		<relationship name="parameter">
-			<destination>{34e92a58-2b9c-4a88-a95a-416de0767561}</destination>
-		</relationship>
 	</object>
 	<object class="AutomationPoint" id="{f263884e-c503-40ff-bb7d-5b2d002d32a1}">
 		<property name="position">
