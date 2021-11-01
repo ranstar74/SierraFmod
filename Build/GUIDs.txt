@@ -2,6 +2,7 @@
 {098f2438-6a4a-0dbf-0e23-c4b4acd5d01f} bank:/SierraV.strings
 {534e187b-1058-498f-ab47-008db908c3db} bus:/
 {4cccbf4d-06aa-4e95-802d-4b5afcbb0726} bus:/Reverb
+{23501ffb-53f3-4a53-b24a-6d0733eacb3f} event:/Ambient/ChugAudioAction
 {86319a93-9f1a-4a83-9336-6067cc3c5aeb} event:/Ambient/Chugs
 {527a6251-591b-4e83-9fba-c0f35b10eb2b} parameter:/New Event/SafetyValve
 {fe8cc790-b621-421b-9034-a555a182bb6e} parameter:/New Event/speed

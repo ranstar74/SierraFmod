@@ -60,8 +60,14 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{2c4cdc52-34a0-42ab-afaa-43345bf0a961}">
+		<property name="priority">
+			<value>3</value>
+		</property>
 		<property name="dopplerEnabled">
 			<value>true</value>
+		</property>
+		<property name="maximumDistance">
+			<value>150</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{4e9ebf55-a56b-4ac0-a739-e376b2ef422f}" />
@@ -118,6 +124,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{6563c501-4932-4b78-9479-433bc9149726}">
+		<property name="volume">
+			<value>1</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -165,6 +174,10 @@
 	</object>
 	<object class="MixerBusPanner" id="{ae22821c-6382-4cfd-b9c4-e4942200cac7}" />
 	<object class="MixerBusFader" id="{d6fd7397-2773-4525-9e4e-52bbfb356e0e}" />
-	<object class="SpatialiserEffect" id="{2a97994d-d081-438d-9cb5-4e2f43b4db17}" />
+	<object class="SpatialiserEffect" id="{2a97994d-d081-438d-9cb5-4e2f43b4db17}">
+		<property name="maximumDistance">
+			<value>150</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{7241c1c4-9f73-4c69-a10f-b00c965167b6}" />
 </objects>
