@@ -116,6 +116,9 @@
 		<property name="length">
 			<value>1.24</value>
 		</property>
+		<property name="maxVoices">
+			<value>9</value>
+		</property>
 		<relationship name="parameters">
 			<destination>{d01823f2-5f72-4c74-b631-4a9e0a910852}</destination>
 		</relationship>
