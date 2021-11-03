@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="ParameterPreset" id="{be880130-3eab-011c-2797-66ef530978cf}">
 		<property name="name">
-			<value>speed</value>
+			<value>Speed</value>
 		</property>
 		<relationship name="folder">
-			<destination>{54541cb7-34dd-46c9-b00c-598032fb9e27}</destination>
+			<destination>{7e142f24-9505-0a40-2dec-7db00d040039}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{fe8cc790-b621-421b-9034-a555a182bb6e}</destination>

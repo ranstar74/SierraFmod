@@ -5,7 +5,7 @@
 			<value>SafetyValve</value>
 		</property>
 		<relationship name="folder">
-			<destination>{54541cb7-34dd-46c9-b00c-598032fb9e27}</destination>
+			<destination>{7e142f24-9505-0a40-2dec-7db00d040039}</destination>
 		</relationship>
 		<relationship name="parameter">
 			<destination>{527a6251-591b-4e83-9fba-c0f35b10eb2b}</destination>

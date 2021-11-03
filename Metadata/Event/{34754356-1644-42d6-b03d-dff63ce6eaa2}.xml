@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{34754356-1644-42d6-b03d-dff63ce6eaa2}">
 		<property name="name">
-			<value>ChugAudio2</value>
+			<value>ChugAudio</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
