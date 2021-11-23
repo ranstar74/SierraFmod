@@ -84,7 +84,7 @@
 			<destination>{b94608e8-57d4-4607-a7f3-0eccf27bcc45}</destination>
 		</relationship>
 		<relationship name="markers">
-			<destination>{33537282-bcf5-43cd-b57b-6d6516f5be48}</destination>
+			<destination>{76a24f6e-e328-4127-bee3-9bf7ca876a88}</destination>
 		</relationship>
 	</object>
 	<object class="ParameterProxy" id="{7d807854-b1fa-49b4-9b07-7db3c80c366a}">
@@ -143,12 +143,9 @@
 			<destination>{b4417c2a-17ff-4f54-8ac1-42ab5e41a3bc}</destination>
 		</relationship>
 	</object>
-	<object class="LoopRegion" id="{33537282-bcf5-43cd-b57b-6d6516f5be48}">
+	<object class="SustainPoint" id="{76a24f6e-e328-4127-bee3-9bf7ca876a88}">
 		<property name="position">
-			<value>2</value>
-		</property>
-		<property name="length">
-			<value>58.5</value>
+			<value>1.6001436781609195</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{b94865f4-1a41-4780-b5a6-44f2994318f7}</destination>

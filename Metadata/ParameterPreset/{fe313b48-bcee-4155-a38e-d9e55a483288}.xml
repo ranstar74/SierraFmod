@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{fe313b48-bcee-4155-a38e-d9e55a483288}">
+		<property name="name">
+			<value>Brake</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7e142f24-9505-0a40-2dec-7db00d040039}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e67e77be-9590-42cf-8da9-2be0ff978e0b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e67e77be-9590-42cf-8da9-2be0ff978e0b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

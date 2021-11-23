@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c5f4621a-c017-457e-8e5b-bac3d8adb746}">
+		<property name="name">
+			<value>Slip</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7e142f24-9505-0a40-2dec-7db00d040039}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8c7c13ef-8e29-4961-9bfa-c3798926b7c7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8c7c13ef-8e29-4961-9bfa-c3798926b7c7}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
