@@ -77,7 +77,7 @@
 	<object class="MarkerTrack" id="{00efa06c-2927-4bfa-a57c-412d0ccf81b4}" />
 	<object class="GroupTrack" id="{4e759e4f-4c46-4c9f-b4cc-520685ef8054}">
 		<relationship name="automationTracks">
-			<destination>{60bf3452-ae92-479b-bd6a-dffa80685c6e}</destination>
+			<destination>{63be3d3f-4e38-487a-9f31-8a09dae9f943}</destination>
 		</relationship>
 		<relationship name="modules">
 			<destination>{4919112b-490d-4a67-9357-537ca36af90b}</destination>
@@ -191,7 +191,7 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{70b74f78-a696-4b30-a043-38de4aa11e86}" />
-	<object class="AutomationTrack" id="{60bf3452-ae92-479b-bd6a-dffa80685c6e}">
+	<object class="AutomationTrack" id="{63be3d3f-4e38-487a-9f31-8a09dae9f943}">
 		<relationship name="automator">
 			<destination>{ca1ffeee-e4eb-420d-8353-30d16ad04d26}</destination>
 		</relationship>
@@ -598,10 +598,10 @@
 	<object class="MixerBusFader" id="{bab0e7ae-35b8-4a16-9fff-87e43656a49b}" />
 	<object class="AutomationPoint" id="{55cedd2a-4a3c-47a8-9837-b90b7f66d0d5}">
 		<property name="position">
-			<value>0.059999999999999998</value>
+			<value>0.14000000000000001</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>-4</value>
 		</property>
 		<property name="curveShape">
 			<value>0.561899483</value>
@@ -609,7 +609,7 @@
 	</object>
 	<object class="AutomationPoint" id="{3c28bb79-09be-45fb-8afe-0f7066fa9192}">
 		<property name="position">
-			<value>0.22</value>
+			<value>0.25</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
@@ -617,13 +617,13 @@
 	</object>
 	<object class="AutomationPoint" id="{360b5c6e-8a49-4731-8f01-b759434e07de}">
 		<property name="position">
-			<value>0</value>
+			<value>0.029999999999999999</value>
 		</property>
 		<property name="value">
 			<value>-80</value>
 		</property>
 		<property name="curveShape">
-			<value>-0.346227914</value>
+			<value>-0.197215512</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{920c08cb-e550-4044-86b4-d242ba9b3ce0}">
