@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{36aff44d-9366-406b-9a09-7fe14fc55cf2}">
+		<property name="builtBanksOutputDirectory">
+			<value>S:/SteamLibrary/steamapps/common/Grand Theft Auto V/scripts/ATS/Audio</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{da8d4e94-b650-4205-8d83-ee1a0221cb1c}</destination>
 		</relationship>
