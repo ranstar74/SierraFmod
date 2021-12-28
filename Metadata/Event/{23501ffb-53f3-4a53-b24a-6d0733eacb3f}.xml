@@ -66,8 +66,11 @@
 		<property name="dopplerEnabled">
 			<value>true</value>
 		</property>
+		<property name="dopplerScale">
+			<value>24</value>
+		</property>
 		<property name="maximumDistance">
-			<value>350</value>
+			<value>300</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{4e9ebf55-a56b-4ac0-a739-e376b2ef422f}" />
@@ -160,7 +163,11 @@
 			<destination>{2a97994d-d081-438d-9cb5-4e2f43b4db17}</destination>
 		</relationship>
 	</object>
-	<object class="MixerBusPanner" id="{55f280a6-d26f-4c09-bba0-c64f680a6692}" />
+	<object class="MixerBusPanner" id="{55f280a6-d26f-4c09-bba0-c64f680a6692}">
+		<property name="surroundPanExtent">
+			<value>160</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{9ab2ba60-45f7-4a02-b96c-2735c8cc623d}" />
 	<object class="ParameterProperty" id="{d01823f2-5f72-4c74-b631-4a9e0a910852}">
 		<relationship name="parameter">
@@ -176,7 +183,7 @@
 	<object class="MixerBusFader" id="{d6fd7397-2773-4525-9e4e-52bbfb356e0e}" />
 	<object class="SpatialiserEffect" id="{2a97994d-d081-438d-9cb5-4e2f43b4db17}">
 		<property name="maximumDistance">
-			<value>350</value>
+			<value>300</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{7241c1c4-9f73-4c69-a10f-b00c965167b6}" />
