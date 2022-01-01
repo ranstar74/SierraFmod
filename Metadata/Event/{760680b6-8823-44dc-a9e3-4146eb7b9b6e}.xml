@@ -66,7 +66,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{25aa7b72-944e-4f13-a575-b6e0dfe7993c}">
 		<property name="maximumDistance">
-			<value>55</value>
+			<value>90</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{b66d6ec6-1fab-4d98-a642-914c37ef5c40}" />
@@ -203,7 +203,7 @@
 	</object>
 	<object class="MixerBusPanner" id="{1ffd1d56-369c-4c6b-ba3f-e16791865a48}">
 		<property name="surroundPanExtent">
-			<value>178</value>
+			<value>166.266678</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{61746492-6714-4213-abd4-991b9e393a9f}" />
@@ -238,7 +238,7 @@
 	<object class="MixerBusFader" id="{19cd9394-77b5-40ea-aec0-675ee13c62de}" />
 	<object class="SpatialiserEffect" id="{6d33a436-d8b6-4163-a6c1-465a5131159e}">
 		<property name="maximumDistance">
-			<value>55</value>
+			<value>90</value>
 		</property>
 	</object>
 	<object class="AutomationCurve" id="{648e0092-9e8f-4366-b2d4-edf71193a6a1}">
@@ -266,7 +266,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-80</value>
+			<value>-7</value>
 		</property>
 		<property name="curveShape">
 			<value>-0.346228361</value>
